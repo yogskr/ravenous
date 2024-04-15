@@ -1,0 +1,33 @@
+.businessContainer {
+  width: fit-content;
+  box-shadow: 5px 5px 0px rgba(60, 43, 3, 0.4);
+  padding: 1rem;
+  border-radius: 15px;
+  background-color: rgb(247, 243, 230);
+}
+
+.businessImage {
+  width: 300px;
+  border-radius: 15px;
+}
+
+h2 {
+  font-size: 1.2rem;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1rem;
+}
+
+h3 {
+  font-size: 1rem;
+  color: rgb(198, 135, 26);
+}
+
+.businessInfo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
