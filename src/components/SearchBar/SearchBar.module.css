@@ -35,7 +35,14 @@ header {
 }
 
 .sortByOptionList:hover {
-  color: rgb(180, 126, 18);
+  color: rgb(137, 136, 136);
+  transition: all ease;
+}
+
+.selectedSortByOptionList {
+  color: rgb(128, 90, 14);
+  font-weight: bold;
+  cursor: pointer;
   transition: all ease;
 }
 
